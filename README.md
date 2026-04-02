@@ -3,11 +3,9 @@
 Hi, I'm Satwika
 
 I am a Master's student in Business Analytics with experience in Python, SQL, and data analysis.
+## 📊 Featured Projects
 
-## 📊 Featured Project
-
-### Text Analytics on U.S. Labor Market Reports
-
+### 1. Text Analytics on U.S. Labor Market Reports
 This project was completed as part of a group collaboration.
 
 *My Contribution:*
@@ -20,9 +18,23 @@ This project was completed as part of a group collaboration.
 - Pandas, NLTK
 - Matplotlib
 
-*Project Overview:*
-Analyzed language used in U.S. Bureau of Labor Statistics reports to understand labor market trends over time.
-
 ---
 
-More projects coming soon.
+### 2. Sales Data Analysis using SQL
+
+This project analyzes sales data to uncover trends in revenue, products, and regional performance.
+
+*What I Did:*
+- Created and structured a sales database
+- Wrote SQL queries to analyze revenue and trends
+- Identified top-performing products and regions
+
+*Key Insights:*
+- Electronics generated the highest revenue
+- Certain regions contributed more to total sales
+- Top products drove the majority of sales
+
+*Tools Used:*
+- SQL
+
+
